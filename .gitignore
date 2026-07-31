@@ -1,6 +1,5 @@
 venv/
 __pycache__/
 outputs/
-adapters/
 *.pyc
 .ipynb_checkpoints/
